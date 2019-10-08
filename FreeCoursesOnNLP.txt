@@ -6,12 +6,15 @@ https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9
 
 Second:-
 https://web.stanford.edu/class/cs124/
+https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm
 
 Third:-
 http://web.stanford.edu/class/cs224n/
+https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 Fourth:
 https://github.com/oxford-cs-deepnlp-2017/lectures
+https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
 
 Fifth:
 https://courses.cs.washington.edu/courses/cse517/17wi/
