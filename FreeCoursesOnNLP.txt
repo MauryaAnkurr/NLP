@@ -24,8 +24,6 @@ Fourth:
 https://github.com/oxford-cs-deepnlp-2017/lectures
 https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
 
-
-
 Fifth:
 https://courses.cs.washington.edu/courses/cse517/17wi/
 
