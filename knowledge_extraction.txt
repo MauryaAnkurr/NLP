@@ -1,1 +1,5 @@
 https://medium.com/heuritech/knowledge-extraction-from-unstructured-texts-c279e3b8f92f
+
+https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2
+
+https://medium.com/explore-artificial-intelligence/introduction-to-named-entity-recognition-eda8c97c2db1
