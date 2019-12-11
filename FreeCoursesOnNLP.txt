@@ -1,18 +1,12 @@
 https://www.kdnuggets.com/2019/10/10-free-top-notch-courses-natural-language-processing.html?fbclid=IwAR2cGmGmnhpZ36j03gKobqPZqskh53raoYojOHbPJVUSBrzf0DReqg03QYo
 
-
-
 First:-
 https://github.com/fastai/course-nlp
 https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9
 
-
-
 Second:-
 https://web.stanford.edu/class/cs124/
 https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm
-
-
 
 Third:-
 http://web.stanford.edu/class/cs224n/
