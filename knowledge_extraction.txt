@@ -6,3 +6,7 @@ https://medium.com/explore-artificial-intelligence/introduction-to-named-entity-
 
 #create a custom NER using spacy.
 https://medium.com/@nikkisharma536/how-to-create-custom-ner-in-spacy-cfcd531f8773
+
+#bert 
+
+http://www.dhgarrette.com/papers/pires_multilingual_bert_acl2019.pdf
