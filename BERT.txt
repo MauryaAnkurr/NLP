@@ -8,3 +8,6 @@ https://www.pragnakalp.com/case-study/question-answering-system-in-python-using-
 
 
 https://github.com/ibatra/BERT-Keyword-Extractor
+
+
+https://github.com/singularity014/Keyword-Extraction-Bidirectional-LSTM
