@@ -1,1 +1,10 @@
 https://github.com/Jiakui/awesome-bert
+
+
+http://jalammar.github.io/illustrated-bert/
+
+
+https://www.pragnakalp.com/case-study/question-answering-system-in-python-using-bert-nlp/
+
+
+https://github.com/ibatra/BERT-Keyword-Extractor
