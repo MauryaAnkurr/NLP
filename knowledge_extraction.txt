@@ -10,3 +10,7 @@ https://medium.com/@nikkisharma536/how-to-create-custom-ner-in-spacy-cfcd531f877
 #bert 
 
 http://www.dhgarrette.com/papers/pires_multilingual_bert_acl2019.pdf
+
+
+# BERT for classification
+https://appliedmachinelearning.blog/2019/03/04/state-of-the-art-text-classification-using-bert-model-predict-the-happiness-hackerearth-challenge/
