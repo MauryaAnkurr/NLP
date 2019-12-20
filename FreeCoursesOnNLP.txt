@@ -52,3 +52,7 @@ https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/README.md\
 Twelth:-
 http://www.nltk.org/book/
 
+
+tensor flow text book
+
+https://www.tensorflow.org/hub/tutorials/text_cookbook
