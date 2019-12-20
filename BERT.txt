@@ -22,3 +22,18 @@ https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-network
 
 
 https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
+
+
++++++++++++++++++++++++++++++++
+
+https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b
+
+
+++++++++++++++++++++++++++++++
+
+https://towardsdatascience.com/simple-bert-using-tensorflow-2-0-132cb19e9b22
+
++++++++++++++++++++++++++++++
+
+https://www.kaggle.com/sergeykalutsky/introducing-bert-with-tensorflow
