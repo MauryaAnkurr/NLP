@@ -11,3 +11,14 @@ https://github.com/ibatra/BERT-Keyword-Extractor
 
 
 https://github.com/singularity014/Keyword-Extraction-Bidirectional-LSTM
+
+https://dev.to/mdani38/nlp-transfer-learning-with-bert-2ldf
+
+https://nanonets.com/blog/attention-ocr-for-text-recogntion/
+
+https://easyai.tech/en/blog/openai-gpt-2-understanding-language-generation-through-visualization/
+
+https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+
+
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
