@@ -15,3 +15,7 @@ https://github.com/kavgan/nlp-in-practice/blob/master/tf-idf/Keyword%20Extractio
 https://textminingonline.com/getting-started-with-keyword-extraction
 
 https://medium.com/jettech/jet-techblog-fc52c4336bb3
+
+https://github.com/memray/seq2seq-keyphrase-pytorch
+
+https://github.com/memray/seq2seq-keyphrase
