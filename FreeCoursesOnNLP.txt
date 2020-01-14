@@ -56,3 +56,7 @@ http://www.nltk.org/book/
 tensor flow text book
 
 https://www.tensorflow.org/hub/tutorials/text_cookbook
+
+
+
+http://onlinehub.stanford.edu/cs224
