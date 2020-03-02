@@ -37,3 +37,7 @@ https://towardsdatascience.com/simple-bert-using-tensorflow-2-0-132cb19e9b22
 +++++++++++++++++++++++++++++
 
 https://www.kaggle.com/sergeykalutsky/introducing-bert-with-tensorflow
+
+
+
+https://towardsdatascience.com/simple-bert-using-tensorflow-2-0-132cb19e9b22
