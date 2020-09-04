@@ -60,3 +60,5 @@ https://www.tensorflow.org/hub/tutorials/text_cookbook
 
 
 http://onlinehub.stanford.edu/cs224
+
+https://lena-voita.github.io/nlp_course/word_embeddings.html#research_thinking
