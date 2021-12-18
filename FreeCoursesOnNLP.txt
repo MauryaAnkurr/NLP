@@ -1,3 +1,6 @@
+#vector search methods explaned by james Briggs
+https://www.youtube.com/playlist?list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIVlqc
+
 https://www.kdnuggets.com/2019/10/10-free-top-notch-courses-natural-language-processing.html?fbclid=IwAR2cGmGmnhpZ36j03gKobqPZqskh53raoYojOHbPJVUSBrzf0DReqg03QYo
 
 First:-
