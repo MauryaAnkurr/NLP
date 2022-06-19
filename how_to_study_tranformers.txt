@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=SZorAJ4I-sA
 
 Pytorch implementation from scratch :
 https://medium.com/@sargupta93/explanation-of-attention-is-all-you-need-with-code-by-abhishek-thakur-89861d24ea9d
-
+https://peterbloem.nl/blog/transformers
 
 #intution behind self attention mechanism
 https://www.youtube.com/watch?v=g2BRIuln4uc
