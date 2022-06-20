@@ -1,5 +1,8 @@
 https://www.youtube.com/watch?v=M9W23ulRTdw
 
+https://www.youtube.com/playlist?list=PLtfxzVLWb-B8rbfTQGv7i2iRvFnc-tRZI
+
+
 A Netflix engineer did 7 onsites interviews for 7 tech companies. Received 7 offers ranging $325k - $800k a year. He/she shared the resources in Blind that helped her/him to be successful. Here they are:
 
 1. Leetcode
