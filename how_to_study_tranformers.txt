@@ -24,3 +24,5 @@ https://www.youtube.com/watch?v=z1xs9jdZnuY&t=423s
 #visual guide for transformers
 https://www.youtube.com/watch?v=dichIcUZfOw&list=PL86uXYUJ7999zE8u2-97i4KG_2Zpufkfb&index=2
 
+# visual representation for attention
+https://github.com/jessevig/bertviz
